@@ -1,14 +1,19 @@
-<h1 style="display:flex; align-items:center; justify-content:space-between;">
-  <span>Hello! I’m Raman Shrestha 👋</span>
-  <img src="https://komarev.com/ghpvc/?username=raman-shres&color=blue&style=flat-square" alt="profile views" />
+<h1>
+  Hello! I’m Raman Shrestha 👋
+  <img
+    align="right"
+    style="margin-top:6px"
+    src="https://komarev.com/ghpvc/?username=raman-shres&color=blue&style=flat-square"
+    alt="profile views"
+  />
 </h1>
 
 I recently graduated with a B.S. in Computer Science from the University of Texas at Dallas. I focus on backend and full stack development and enjoy building scalable APIs, microservices, and data driven applications. I like working close to the backend, designing clean architectures, modeling and querying databases, and applying strong computer science fundamentals to build reliable systems that solve real business problems.
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/ramanshres/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:shrestha.raman1126@gmail.com)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=internetexplorer&logoColor=white&logoWidth=20)](https://ramans.dev)
+[![Website](https://img.shields.io/badge/Website-2F2F2F?style=for-the-badge&logo=internetexplorer&logoColor=white&logoWidth=20)](https://ramans.dev)
+
 
 ## 🧠 Tech Stack
 [![Java](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=java&logoColor=black)](https://www.java.com/en/)
@@ -22,7 +27,6 @@ I recently graduated with a B.S. in Computer Science from the University of Texa
 
 [![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/projects/spring-security)
-[![JWT](https://img.shields.io/badge/-JWT-black?style=for-the-badge)](https://jwt.io/)
 [![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)](https://hibernate.org/)
 [![Eureka](https://img.shields.io/badge/-Eureka-blue?style=for-the-badge)](https://spring.io/projects/spring-cloud-netflix)
 [![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -31,7 +35,6 @@ I recently graduated with a B.S. in Computer Science from the University of Texa
 
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![JDBC](https://img.shields.io/badge/-JDBC-black?style=for-the-badge)](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
 [![Database Normalization](https://img.shields.io/badge/-Database%20Normalization-grey?style=for-the-badge)](https://www.geeksforgeeks.org/database-normalization/)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -44,4 +47,3 @@ I recently graduated with a B.S. in Computer Science from the University of Texa
 [![Elastic Beanstalk](https://img.shields.io/badge/-Elastic%20Beanstalk-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)](https://aws.amazon.com/elasticbeanstalk/)
 [![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)](https://kafka.apache.org/)
 [![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
