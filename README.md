@@ -8,7 +8,7 @@
   />
 </h1>
 
-I'm a recent Computer Science graduate from the University of Texas at Dallas focused on backend and full-stack development. I enjoy building scalable APIs, microservices, and data driven applications through clean architecture that powers reliable systems and solves real business problems.
+I'm a recent Computer Science graduate from the University of Texas at Dallas focused on backend and full-stack development. I enjoy building scalable APIs, microservices, and data driven applications through clean architecture that powers reliable systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/ramanshres/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:shrestha.raman1126@gmail.com)
@@ -20,7 +20,6 @@ I'm a recent Computer Science graduate from the University of Texas at Dallas fo
 [![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![HTML5](https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
