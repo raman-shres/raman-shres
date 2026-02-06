@@ -10,11 +10,6 @@
 
 I'm a recent Computer Science graduate from the University of Texas at Dallas focused on backend and full-stack development. I enjoy building scalable APIs, microservices, and data driven applications through clean architecture that powers reliable systems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/ramanshres/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:shrestha.raman1126@gmail.com)
-[![Website](https://img.shields.io/badge/Website-2F2F2F?style=for-the-badge&logo=internetexplorer&logoColor=white&logoWidth=20)](https://ramans.dev)
-
-
 ## Tech Stack
 [![Java](https://img.shields.io/badge/-Java-f89820?style=for-the-badge&logo=java&logoColor=black)](https://www.java.com/en/)
 [![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
